@@ -113,11 +113,3 @@ Test the memory subsystem functionality:
 gcc -Wall -g -I./src/include tools/memory_test.c src/memory.c -o memory_test
 ./memory_test
 ```
-
-## License
-
-This project is for educational purposes and is not licensed for commercial use.
-
-## Author
-
-Adapted for your project by GitHub Copilot.
