@@ -1,0 +1,28 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.dll
+*.so
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Editor/IDE files
+*.log
+*.user
+*.suo
+*.vcxproj*
+*.DS_Store
+*.vscode/
+*.idea/
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
